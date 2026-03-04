@@ -1,2 +1,2 @@
 # DDPM-implementation-
-Denoising Diffusion Probabilistic Models
+Denoising Diffusion Probabilistic Model paper implementation..
